@@ -1,2 +1,3 @@
-welcome to powershell
+welcome to shell
+you are using this shell
 
